@@ -1,0 +1,40 @@
+body {
+  margin:10px;
+  background-color:lightskyblue;
+}
+
+article {
+  margin-left: 20%;
+  width: 60%;
+}
+
+h1 {
+  font-size: 46px;
+  font-family: verdana;
+  color: floralwhite;
+}
+
+img {
+  width: 80%;
+}
+
+p {
+  font-family: times;
+  color: floralwhite;
+}
+
+footer {
+  margin-top: 30px;
+  font-family: times, sans-serif;
+  color: floralwhite;
+  background-color: black;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #717171;
+  text-decoration-color: #ffcb04;
+}
